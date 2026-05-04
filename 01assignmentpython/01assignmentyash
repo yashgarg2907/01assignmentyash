@@ -1,0 +1,10 @@
+#switch values of two integers
+n1=20
+n2=30
+print(f"before swapping value of n1: {n1}")
+print(f" before swapping value of n2 :{n2}")
+n3=n1
+n1=n2
+n2=n3
+print(f"after swapping value of n1: {n1}")
+print(f"after swapping value of n2: {n2}")
