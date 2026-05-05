@@ -1,0 +1,10 @@
+# update balance after withdrawl
+balance =12000
+withdrawl =3000
+print(f"balance: {balance}")
+print(f"withdrawl: {withdrawl}")
+print()
+current_balance = balance-withdrawl
+print(f"after withdrawl: {current_balance}")
+
+
