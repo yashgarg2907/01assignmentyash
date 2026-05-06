@@ -1,0 +1,6 @@
+#apply a 20% discount to a price
+price=1000
+discount=20
+print(f"before price:{price}")
+final_price = price - (price*discount/100)
+print (f"after final_price:{final_price}")
