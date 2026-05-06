@@ -1,0 +1,7 @@
+#increase shopping carts item by 3
+cart_items =5
+increase = 3
+print(f"before cart_items:{cart_items}")
+shopping_carts=cart_items+increase
+print()
+print(f"after shopping cart_items:{shopping_carts}")
