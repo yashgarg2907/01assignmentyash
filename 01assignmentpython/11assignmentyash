@@ -1,0 +1,11 @@
+#calculate average of 3 numbers
+number_1 =25
+number_2 =35
+number_3 =45
+print(f"number1 :{number_1}")
+print(f"number2 :{number_2}")
+print(f"number3 :{number_3}")
+total_number = (number_1+number_2+number_3)
+average_number =(total_number/3)
+print(f"total_number :{total_number}")
+print(f"average_number :{average_number}")
