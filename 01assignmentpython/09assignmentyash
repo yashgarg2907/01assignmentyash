@@ -1,0 +1,5 @@
+#calculate student percentage
+obtain_marks =430
+out_of_marks =500
+percentage=(obtain_marks/out_of_marks)*100
+print(f"percentage : {percentage}")
