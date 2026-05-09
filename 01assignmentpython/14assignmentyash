@@ -1,0 +1,13 @@
+#compound_interest
+principal = 10000
+rate = 5
+time = 2
+print(f"principal : {principal}")
+print(f"rate :{rate}")
+print(f"time :{time}")
+amount = principal * (1 +rate /100) ** time
+compound_interest = amount -principal
+print(f"amount : {amount}")
+print(f"compound_interest = : {compound_interest }")
+
+
