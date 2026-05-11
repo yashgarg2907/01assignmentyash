@@ -1,0 +1,5 @@
+#convert boolean to integer
+value = True
+result = int (value)
+print(f"value :{value}")
+print(f"result : {result}")
