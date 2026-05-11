@@ -1,0 +1,5 @@
+#convert 20 degree celsius to fahrenheit
+value =20 #celsius
+fahrenheit = (value*9/5)+32
+print(f"value : {value}c")
+print(f"fahrenheit: {fahrenheit}f")
