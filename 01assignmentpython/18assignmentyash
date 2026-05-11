@@ -1,0 +1,5 @@
+#convert float to string
+value = 45.67
+result =str(value)
+print(f"value : {value}")
+print(f"result : {result}")
