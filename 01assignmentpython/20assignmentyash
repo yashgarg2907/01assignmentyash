@@ -1,0 +1,7 @@
+#convert 50f to celsius
+value =50 #fahrenheit
+celsius = (value*9/5)-32
+print(f"value :{value}F")
+print(f"celsius :{celsius}C")
+
+
