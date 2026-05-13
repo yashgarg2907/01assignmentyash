@@ -1,5 +1,5 @@
 #calculate volume of a cube :
 side =5
-volume = side^2
+volume = side*side
 print (f"side : {side}")
 print (f"volume of a cube : {volume}")
