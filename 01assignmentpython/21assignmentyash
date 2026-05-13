@@ -1,0 +1,5 @@
+#convert integer to binary:
+value =25
+res=bin(value)
+print(f"value : {value}")
+print(f"res :{res}")
