@@ -1,0 +1,5 @@
+#calculate diameter of a circle :
+radious=14
+diameter=2*radious
+print(f"radious : {radious}")
+print(f"diameter of a circle : {diameter}")
