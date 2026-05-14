@@ -1,0 +1,5 @@
+#simplify expression : x**2-4x +4:
+x =3
+expression= x**2-4*x+4
+res= (expression)
+print(f"simplify expression : {res}")
