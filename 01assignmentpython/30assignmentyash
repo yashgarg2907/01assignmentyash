@@ -1,0 +1,7 @@
+#sum of cubes: a^3+B^3
+a=1
+b=2
+cubes =(a +b)*((a**2) -(a*b) +(b**2))
+print (f"a : {a}")
+print (f"b : {b}")
+print(f"sum of cubes : {cubes}")
